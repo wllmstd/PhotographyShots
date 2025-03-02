@@ -67858,7 +67858,7 @@ N(a){return new A.vz(A.Ss(A.a([new A.us(null),new A.CJ(1,B.k9,this.c,null)],t.F)
 A.lz.prototype={
 ac(){return new A.IR(B.j)}}
 A.IR.prototype={
-N(a){var s=null,r="John Willemstad A. Osuyos is a third-year BSIT student \nat West Visayas State University. His creative \njourney started in high school with graphic design \nand evolved into a passion for photography. \nHe specializes in capturing landscapes, objects, \nand portraits as a means of expressing his creativity.",q="stadosuyos@gmail.com",p=t.w,o=t.F
+N(a){var s=null,r="John Willemstad A. Osuyos is a fourth-year BSIT student \nat West Visayas State University. His creative \njourney started in high school with graphic design \nand evolved into a passion for photography. \nHe specializes in capturing landscapes, objects, \nand portraits as a means of expressing his creativity.",q="stadosuyos@gmail.com",p=t.w,o=t.F
 if(A.cq(a,s,p).w.a.a>1100){p=A.cq(a,s,p).w
 o=A.vy(A.a([new A.d_(B.k6,A.i7(A.tw("assets_low/stad.jpg",s),s,p.a.a/2),s),A.Ss(A.a([new A.d_(B.br,A.n_(r,A.oj(B.k,24,s,1),B.bh),s),A.i7(s,16,s),new A.d_(B.br,A.n_("For all collaborations \n& other inquiries please contact:",A.oj(B.k,24,s,1),B.bh),s),A.aje(A.n_(q,A.oj(B.k,24,B.ba,1),B.bh),new A.a5U()),A.i7(s,36,s),A.vy(A.a([A.Dr(s,A.Ur(B.ko),new A.a5V(),s),A.Dr(s,A.Ur(B.kp),new A.a5W(),s)],o),B.aV,B.cM,B.bA)],o),B.fE,B.eb)],o),B.aV,B.eb,B.bA)
 p=o}else{p=A.cq(a,s,p).w
